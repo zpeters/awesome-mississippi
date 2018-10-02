@@ -25,6 +25,7 @@ who established the first permanent settlement in present-day Mississippi in 169
 - [Mississippi Civil Rights Museum](https://mcrm.mdah.ms.gov/)
 - [B.B. King Museum](https://bbkingmuseum.org/) 
 - [Grammy Museum](https://www.grammymuseum.org/)
+- [Old Courthouse](https://oldcourthouse.org/)
 ### Oddities
 - [The Mississippi River Basin Model](https://www.atlasobscura.com/places/the-mississippi-river-basin-model-jackson-mississippi)
 
