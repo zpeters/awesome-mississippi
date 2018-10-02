@@ -22,7 +22,7 @@ Around the time Elliot first ventured onto the river, he was restless in his job
 From there, he became an official river guide and manager of the Natchez outpost for the Quapaw Canoe Company.
 
 “It’s not the place people think it is. It’s not what they see from the bridge,” Elliot said. “There’s miles and miles of this wild space that’s rather secluded. It’s incredibly beautiful, and it has so many things to offer us. Our towns wouldn’t be what they are without that river; there’s just so much tied up in it.”
-
+Credits:https://thesipmag.com/mississippi-river-beauty-majesty-beast-dynamism/
 *Inspired by [awesome-toronto](https://github.com/rodolfobandeira/awesome-toronto)*
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
