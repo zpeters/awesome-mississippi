@@ -17,7 +17,25 @@ who established the first permanent settlement in present-day Mississippi in 169
 
   1. [Museums and Art](#museums-and-art)
   2. [How to contribute](#how-to-contribute)
+  3. [Surprising things](#surprising-things)
 
+## Facts about Mississippi
+### Surprising Things
+  1. The Mississippi Sound is one of the best destinations in the world for dolphin spotting. 
+  2. If you want to visit Mars, you’ll have to pass through Mississippi first.
+  3. Mississippi’s first craft brewery is right here.
+  4. A lost city of Atlantis lies in the Gulf.
+  5. This region is responsible for the majority of our nation’s oyster and domestic shrimp supply.
+  6. The University of Southern Mississippi’s Long Beach campus is home to a tree that was probably a sapling when Columbus landed in the Americas.
+  7. The Gulf Coast is also the start of the Mississippi Seafood Trail.
+  8. The oldest building in the Mississippi River Valley still stands in Pascagoula.
+  9. There’s plenty of beach for visitors, locals, and anyone else passing through.
+  10. Mississippi’s Gulf Coast has been named Golf’s Best Kept Vacation Secret by Forbes.
+  11. It gets more sun than your average American destination.
+  12. Two revolutionary beverages were invented here.
+  13. The Gulf Coast is home to the largest free-flowing river in the continental US.
+  
+These surprising facts were pulled from an article by Genevieve Northup on the Matador Network. [Reference](https://matadornetwork.com/notebook/13-things-didnt-know-mississippi-gulf-coast/)
 
 ## Things to see and do
 ### Museums and Art
@@ -25,8 +43,6 @@ who established the first permanent settlement in present-day Mississippi in 169
 - [Mississippi Civil Rights Museum](https://mcrm.mdah.ms.gov/)
 - [B.B. King Museum](https://bbkingmuseum.org/) 
 - [Grammy Museum](https://www.grammymuseum.org/)
-- [Old Courthouse](https://oldcourthouse.org/)
-- [Longwood](http://www.stantonhall.com/longwood.php)
 ### Oddities
 - [The Mississippi River Basin Model](https://www.atlasobscura.com/places/the-mississippi-river-basin-model-jackson-mississippi)
 
@@ -39,3 +55,4 @@ who established the first permanent settlement in present-day Mississippi in 169
 
 # Contributors
 - @MauAraujo
+- @erwolfe
