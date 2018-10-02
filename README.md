@@ -15,6 +15,8 @@ Tell the world what is awesome about Mississippi
 ### Museums and Art
 - [Mississippi Museum of Art](http://www.msmuseumart.org/)
 - [Mississippi Civil Rights Museum](https://mcrm.mdah.ms.gov/)
+- [B.B. King Museum](https://bbkingmuseum.org/) 
+- [Grammy Museum](https://www.grammymuseum.org/)
 ### Oddities
 - [The Mississippi River Basin Model](https://www.atlasobscura.com/places/the-mississippi-river-basin-model-jackson-mississippi)
 
