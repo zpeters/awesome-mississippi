@@ -15,9 +15,9 @@ who established the first permanent settlement in present-day Mississippi in 169
 
 ## Table of Contents
 
-  1. [Museums and Art](#museums-and-art)
-  2. [How to contribute](#how-to-contribute)
-  3. [Surprising things](#surprising-things)
+  1. [Surprising things](#surprising-things)
+  2. [Museums and Art](#museums-and-art)
+  3. [How to contribute](#how-to-contribute)
 
 ## Facts about Mississippi
 ### Surprising Things
