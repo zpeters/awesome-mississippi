@@ -19,3 +19,8 @@ Tell the world what is awesome about Mississippi
 - [The Mississippi River Basin Model](https://www.atlasobscura.com/places/the-mississippi-river-basin-model-jackson-mississippi)
 
 ## How to contribute
+- Click on the Issues tab
+- Click the green "New Issue" button
+- In the title describe your addition or change
+- In the "Leave comment" box describe your addition or change in detail
+- Click the green "Submit new issue" button
