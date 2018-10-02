@@ -5,6 +5,14 @@ Tell the world what is awesome about Mississippi
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+## Brief History
+
+Mississippi joined the Union as the 20th state in 1817 and gets its name from the Mississippi River,
+which forms its western border. Early inhabitants of the area that became Mississippi included the 
+Choctaw, Natchez and Chickasaw. Spanish explorers arrived in the region in 1540 but it was the French 
+who established the first permanent settlement in present-day Mississippi in 1699. 
+[Reference](https://www.history.com/topics/us-states/mississippi)
+
 ## Table of Contents
 
   1. [Museums and Art](#museums-and-art)
