@@ -13,6 +13,32 @@ Choctaw, Natchez and Chickasaw. Spanish explorers arrived in the region in 1540 
 who established the first permanent settlement in present-day Mississippi in 1699. 
 [Reference](https://www.history.com/topics/us-states/mississippi)
 
+## Interesting Facts
+
+1. Oliver Pollock, an Irish merchant in Spanish-controlled New Orleans who used his fortune to help finance 
+    the American Revolution, is credited with creating the dollar sign in 1778. He is buried in Pinckneyville, 
+    where he lived with his son-in-law prior to his death on December 17, 1823.
+
+2. The Blues musical form originated in the Mississippi Delta after the Civil War. Rooted in the songs sung 
+    by slaves working in the fields and African spirituals, the Blues offered an escape from oppression and a means 
+    of expression for many African Americans.
+
+3. While on a hunting expedition with Mississippi Governor Andrew Longino near Onward in November of 1902, 
+    President Theodore Roosevelt refused to shoot a bear that had been captured and tied to a tree. Afterward, 
+    a satirical cartoon of the event was published, inspiring a Brooklyn candy shop owner to create a stuffed 
+    “Teddy’s Bear.”
+
+4. The flight school at Columbus Air Force Base trained more than 8,000 students during World War II to become 
+    flying officers in the Army Air Corps.
+
+5. Dr. James D. Hardy performed the world’s first human lung transplant at the University of Mississippi Medical 
+    Center in Jackson on June 11, 1963. On January 23, 1964, he transplanted the heart of a chimpanzee into a 
+    dying patient—performing the world’s first heart transplant surgery.
+
+6. Mississippi produces some 60 percent of America’s farm-raised catfish. Commercial catfish production began in 
+    the state in the mid-1960s. The Mississippi Delta city of Belzoni, billed as the Catfish Capital of the World, 
+    has a catfish museum and hosts an annual catfish festival.
+
 ## Table of Contents
 
   1. [Museums and Art](#museums-and-art)
