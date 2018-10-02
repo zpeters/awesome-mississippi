@@ -43,6 +43,8 @@ These surprising facts were pulled from an article by Genevieve Northup on the M
 - [Mississippi Civil Rights Museum](https://mcrm.mdah.ms.gov/)
 - [B.B. King Museum](https://bbkingmuseum.org/) 
 - [Grammy Museum](https://www.grammymuseum.org/)
+- [Old Courthouse](https://oldcourthouse.org/)
+- [Longwood](http://www.stantonhall.com/longwood.php)
 ### Oddities
 - [The Mississippi River Basin Model](https://www.atlasobscura.com/places/the-mississippi-river-basin-model-jackson-mississippi)
 
