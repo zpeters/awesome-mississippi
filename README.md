@@ -49,6 +49,9 @@ These surprising facts were pulled from an article by Genevieve Northup on the M
 ### Oddities
 - [The Mississippi River Basin Model](https://www.atlasobscura.com/places/the-mississippi-river-basin-model-jackson-mississippi)
 
+### Malls
+- [Edgewater Mall](https://en.wikipedia.org/wiki/Edgewater_Mall)
+
 ## How to contribute
 - Click on the Issues tab
 - Click the green "New Issue" button
