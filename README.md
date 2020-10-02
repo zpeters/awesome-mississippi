@@ -35,6 +35,7 @@ who established the first permanent settlement in present-day Mississippi in 169
   12. Two revolutionary beverages were invented here.
   13. The Gulf Coast is home to the largest free-flowing river in the continental US.
   14. The world's largest shrimp is on display at the Old Spanish Fort Museum in Pascagoula.
+  25. Mississippi is the farm-raised catfish capital of the United States, with over 100,000 acres of catfish ponds.
   
 These surprising facts were pulled from an article by Genevieve Northup on the Matador Network. [Reference](https://matadornetwork.com/notebook/13-things-didnt-know-mississippi-gulf-coast/)
 
