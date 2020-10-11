@@ -35,6 +35,8 @@ who established the first permanent settlement in present-day Mississippi in 169
   12. Two revolutionary beverages were invented here.
   13. The Gulf Coast is home to the largest free-flowing river in the continental US.
   14. The world's largest shrimp is on display at the Old Spanish Fort Museum in Pascagoula.
+  15. Root beer was invented in Biloxi in 1898 by Edward Adolf Barq, Sr. of Biloxi Artesian Bottling Works. The Barq’s Root Beer company is now owned by Coca-Cola and is based in Atlanta.
+  16. The term “teddy bear” originated in Mississippi when President Theodore Roosevelt refused to kill a trapped bear during a hunting trip near Onward, Mississippi in 1902. A Brooklyn candy shop owner saw a political cartoon depicting Roosevelt and the bear and was inspired to create a stuffed animal that he called “Teddy’s Bear.”
   25. Mississippi is the farm-raised catfish capital of the United States, with over 100,000 acres of catfish ponds.
   
 These surprising facts were pulled from an article by Genevieve Northup on the Matador Network. [Reference](https://matadornetwork.com/notebook/13-things-didnt-know-mississippi-gulf-coast/)
