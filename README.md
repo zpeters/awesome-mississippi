@@ -55,6 +55,9 @@ These surprising facts were pulled from an article by Genevieve Northup on the M
 ### Malls
 - [Edgewater Mall](https://en.wikipedia.org/wiki/Edgewater_Mall)
 
+### Historical Sites
+- [Ammadelle](https://en.wikipedia.org/wiki/Ammadelle)
+
 ## How to contribute
 - Click on the Issues tab
 - Click the green "New Issue" button
